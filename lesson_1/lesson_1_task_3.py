@@ -1,3 +1,3 @@
-user_name = input("Как вас зовут? ")
-user_name = "Дмитрий"
-print("Привет, ", user_name)
+print("Введите свое имя:")
+user_name = input()
+print("Привет, " + user_name)

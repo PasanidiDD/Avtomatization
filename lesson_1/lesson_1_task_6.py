@@ -1,21 +1,21 @@
-def Вывести_в_консоль_1():
+def print_one():
     print(1,end="")
-def Вывести_в_консоль_2():
+def print_two():
     print(2,end="")
-def Вывести_в_консоль_3():
+def print_three():
     print(3,end="")
-def Вывести_в_консоль_4():
+def print_four():
     print(4,end="")
-def Вывести_в_консоль_5():
+def print_five():
     print(5,end="")
-def Вывести_в_консоль_6():
+def print_six():
     print(6,end="")
-def Вывести_в_консоль_7():
+def print_seven():
     print(7,end="")
-def Вывести_в_консоль_8():
+def print_eight():
     print(8,end="")
-def Вывести_в_консоль_9():
+def print_nine():
     print(9,end="")
-def Вывести_в_консоль_0():
+def print_zero():
     print(0,end="")
-Вывести_в_консоль_8(), Вывести_в_консоль_8(),Вывести_в_консоль_0(), Вывести_в_консоль_0(), Вывести_в_консоль_5(), Вывести_в_консоль_5(), Вывести_в_консоль_5(), Вывести_в_консоль_3(), Вывести_в_консоль_5(), Вывести_в_консоль_3(), Вывести_в_консоль_5(),
+print_eight(), print_eight(),print_zero(), print_zero(), print_five(), print_five(), print_five(), print_three(), print_five(), print_three(), print_five(),
